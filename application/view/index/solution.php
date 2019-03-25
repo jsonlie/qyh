@@ -219,7 +219,7 @@
                                     <div class="rowFluid">
                                         <div class="span12">
                                             <div class="container">
-                                                <h3 class="z_banner_title">千羽画学员作品展示</h3>
+                                                <h3 class="z_banner_title">拾尔画学员作品展示</h3>
                                                 <div class="z_banner_text">用优秀的作品去敲开企业的大门</div>
                                                 <div class="rowFluid">
                                                     <!--                                                    <div class="span12">

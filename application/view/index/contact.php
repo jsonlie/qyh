@@ -35,10 +35,10 @@
                                             <h1 style="padding: 0px; margin: 0px; font-size: 18px; color: rgb(56, 55, 53); line-height: 35px;"> 武汉（总部）</h1>
                                             地址：武汉市洪山区光谷鲁磨路联峰时代大厦8楼816室<br />
                                             邮编：430070<br />
-                                            电话：027-8787866<br />
+                                            电话：027-87877866<br />
                                             24h手机：18971367256  王老师<br />
                                             QQ：94690024<br />
-                                            邮箱：295494688@qq.com
+                                            邮箱：94690024@qq.com
                                         </div>
                                         <div class="qr" style="padding: 0px; margin: 42px 30px 0px 0px; float: right;"> <img src="__IMG__/map.png" style="border-width: 0px 1px 0px 0px; border-right-style: solid; border-right-color: rgb(217, 217, 217); overflow: hidden; display: block; float: left; width: 200px; height: 200px;" /><br />
                                             扫描查看电子地图</div>
@@ -81,7 +81,7 @@
                                                 <div class="kzf-mod-wrap wow fadeInLeft">
                                                     <div class="kzf-mod-pic"> <img src="__IMG__/so-mail.png" alt="联系邮箱" /> </div>
                                                     <div class="kzf-mod-txt">
-                                                        <p>295494688@qq.com</p>
+                                                        <p>94690024@qq.com</p>
                                                     </div>
                                                 </div>
                                             </a> </div>
@@ -125,7 +125,7 @@
         });
         infoWin.open();
         //tips  自定义内容
-        infoWin.setContent('<div style="width:100px;padding-top:2px;">武汉千羽画教育</div>');
+        infoWin.setContent('<div style="width:100px;padding-top:2px;">武汉拾尔画教育</div>');
         infoWin.setPosition(center);
     }
                     </script>

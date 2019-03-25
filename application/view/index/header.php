@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <meta name="format-detection" content="telephone=yes">
-        <title>武汉拾尔画教育咨询有限公司-官网</title>
+        <title>武汉千羽画教育咨询有限公司-官网</title>
         <meta name="description" content="平面设计，室内设计，ui设计，淘宝美工，网页设计" />
         <meta name="keywords" content="平面设计，室内设计，ui设计，淘宝美工，网页设计" />
         <meta name="renderer" content="webkit">        <!--ico-->
@@ -24,7 +24,7 @@
         <div class="header">
             <div class="rowFluid">
                 <div class="span2 col-md-12">
-                    <div class="logo"> <a href="index" title="返回首页"> <img src="__IMG__/logo.png" alt="武汉千羽画教育咨询有限公司" height="60" /> </a> </div>
+                    <div class="logo"> <a href="index" title="返回首页"> <img src="__IMG__/logo.png" alt="武汉拾尔画教育咨询有限公司" height="60" /> </a> </div>
                 </div>
                 <div class="span8">
                     <div class="mobileMenuBtn"><span class="span1"></span><span class="span2"></span><span class="span3"></span></div>
@@ -67,10 +67,10 @@
             <div class="problem">
                 <div class="problem_title">报名咨询热线：</div>
                 <ul>
-                    <li><span></span>电话：027-8787866</li>
+                    <li><span></span>电话：027-87877866</li>
                     <li><span></span>手机：18971367256   王老师</li>
                     <li><span></span>QQ：94690024</li>
-                    <li><span></span>邮箱：295494688@qq.com</li>
+                    <li><span></span>邮箱：94690024@qq.com</li>
                     <li><span></span>地址：武汉市洪山区光谷鲁磨路联峰时代大厦8楼816室</li>
                 </ul>
             </div>

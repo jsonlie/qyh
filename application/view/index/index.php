@@ -313,7 +313,7 @@
                     <div class="rowFluid">
                         <div class="span12">
                             <div class="container">
-                                <div class="join_in_title wow fadeInUp">选择千羽画，<span>让你快速迈向设计的人生</span></div>
+                                <div class="join_in_title wow fadeInUp">选择拾尔画，<span>让你快速迈向设计的人生</span></div>
                                 <div class="join_in_text wow fadeInLeft">学设计最好的时候，就是现在</div>
                                 <a href="http://wpa.qq.com/msgrd?v=3&uin=94690024&site=qq&menu=yes " class="all_button_index join_in_button wow fadeInUp" target="_blank">点击咨询</a> </div>
                         </div>

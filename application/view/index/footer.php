@@ -41,17 +41,17 @@
                                 <div class="footer_cotact_title">联系方式</div>
                                 <ul>
                                     <li><span class="footer_cotact_type">地址：</span><span class="footer_cotact_content">武汉市洪山区光谷鲁磨路联峰时代大厦8楼816室</span></li>
-                                    <li><span class="footer_cotact_type">电话：</span><span class="footer_cotact_content"><a href="tel:027-8787866" class="call">027-8787866</a></span></li>
-                                    <li><span class="footer_cotact_type">手机：</span><span class="footer_cotact_content"><a href="tel:027-8787866" class="call">18971367256 &nbsp;王老师</a></span></li>
+                                    <li><span class="footer_cotact_type">电话：</span><span class="footer_cotact_content"><a href="tel:027-87877866" class="call">027-87877866</a></span></li>
+                                    <li><span class="footer_cotact_type">手机：</span><span class="footer_cotact_content"><a href="tel:027-87877866" class="call">18971367256 &nbsp;王老师</a></span></li>
                                     <li><span class="footer_cotact_type">网址：</span><span class="footer_cotact_content"><a href="index" title="官网">www.sehjy.com</a></span></li>
-                                    <li><span class="footer_cotact_type">邮箱：</span><span class="footer_cotact_content">295494688@qq.com</span></li>
+                                    <li><span class="footer_cotact_type">邮箱：</span><span class="footer_cotact_content">94690024@qq.com</span></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="copyright">Copyright &copy; 2019-2020  版权所有 鄂ICP备00000000号 </div>
+            <div class="copyright">Copyright &copy; 2019-2020  版权所有 武汉千羽画教育咨询有限公司 </div>
         </div>
     </div>
 </div>
